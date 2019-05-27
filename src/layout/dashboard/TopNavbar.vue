@@ -54,21 +54,6 @@
                   New Notifications
                 </p>
               </a>
-              <li class="nav-link">
-                <a href="#" class="nav-item dropdown-item">Mike John responded to your email</a>
-              </li>
-              <li class="nav-link">
-                <a href="#" class="nav-item dropdown-item">You have 5 more tasks</a>
-              </li>
-              <li class="nav-link">
-                <a href="#" class="nav-item dropdown-item">Your friend Michael is in town</a>
-              </li>
-              <li class="nav-link">
-                <a href="#" class="nav-item dropdown-item">Another notification</a>
-              </li>
-              <li class="nav-link">
-                <a href="#" class="nav-item dropdown-item">Another one</a>
-              </li>
             </base-dropdown>
             <base-dropdown tag="li"
                            :menu-on-right="!$rtl.isRTL"
